@@ -29,6 +29,11 @@ app.get("/course-details/:courseId", (req, res) => {
 	const course = courses.find((course) => course.id === id);
 	res.send(course);
 });
+app.get("/checkout/:courseId", (req, res) => {
+	const id = Number(req.params.courseId);
+	const course = courses.find((course) => course.id === id);
+	res.send(course);
+});
 
 app.get("/categories", (req, res) => {
 	console.log(categories.length);

@@ -18,12 +18,14 @@
 			"A web design framework with easy-to-use rules and guidelines to design eye-catching websites"
 		],
 		"duration": "37h 30m",
+		"price": 1000,
 		"image": "https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
 		"rating": 5
 	},
 	{
 		"id": 2,
 		"category": "html&css",
+		"price": 2000,
 		"description": "This course is for both beginners and seasoned developers that want to learn how to build responsive websites and user interfaces with modern HTML5 and CSS3+ technologies like Flexbox and CSS Grid as well as the Sass pre-compiler. This course includes hours of both learning & studying sections along with real life projects. Stop having to rely on frameworks like Bootstrap for your user interface and learn how to create your own layouts and utility classes to build custom responsive websites and app UIs.The first few sections are tailored for beginners so even if you have never built anything before, you will learn all of the basics. If you already have experience with basic HTML & CSS, just move to section 3 or 4 and get started.",
 		"obtains": [
 			"Build Multiple High Quality Website & UI Projects",
@@ -43,6 +45,7 @@
 		"description": "This is the most complete JavaScript course on learn web. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications.You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects.You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job.And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up!But... You don't have to go into all these topics. This is a huge course, because, after all, it's 'The Complete JavaScript Course'. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster.By the end of the course, you will have the knowledge and confidence that you need in order to ace your job interviews and become a professional developer.",
 		"duration": "50h",
 		"rating": 5,
+		"price": 3000,
 		"obtains": [
 			"Become an advanced, confident, and modern JavaScript developer from scratch",
 			"Become job-ready by understanding how JavaScript really works behind the scenes",
@@ -77,6 +80,7 @@
 		],
 		"category": "javascript",
 		"duration": "20h",
+		"price": 3000,
 		"rating": 4.5,
 		"image": "https://images.pexels.com/photos/1089440/pexels-photo-1089440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 	},
@@ -93,6 +97,7 @@
 		"category": "react",
 		"duration": "30h",
 		"rating": 5,
+		"price": 2000,
 		"image": "https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 	},
 	{
@@ -103,6 +108,7 @@
 		"category": "react",
 		"duration": "50h",
 		"rating": 4.5,
+		"price": 2500,
 		"image": "https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=600"
 	},
 	{
@@ -126,6 +132,7 @@
 		],
 		"category": "nodejs",
 		"duration": "40h",
+		"price": 3000,
 		"rating": 5,
 		"image": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 	},
@@ -145,6 +152,7 @@
 		"category": "nodejs",
 		"duration": "12h",
 		"rating": "4",
+		"price": 1000,
 		"image": "https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=600"
 	},
 	{
@@ -161,6 +169,7 @@
 		],
 		"duration": "20h",
 		"rating": 4.8,
+		"price": 4000,
 		"image": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVhY3R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
 	},
 	{
@@ -179,10 +188,12 @@
 		"rating": 4.9,
 		"category": "mern",
 		"duration": "40h",
+		"price": 2000,
 		"image": "https://images.unsplash.com/photo-1581276879432-15e50529f34b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmVhY3R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
 	},
 	{
 		"id": 11,
+		"price": 3000,
 		"name": "PHP for Beginners",
 		"description": "Are you wanting to get into Web development, but are not sure where start? So maybe you tried out some PHP and MySQL tutorials on Youtube, but found them too hard or outdated, and feel that you need a more comprehensive introduction.Maybe you want to learn how to write PHP the right way.  Secure code, OOP ready, and maximising re-usability as well as finding out about PHP programming standards to adopt and adhere too?Perhaps your boss or client threw you in the deep end with a PHP and MySQL project, and you need to get up to speed with PHP, fast.Whatever the reason, this course is for you.This course is going to teach you how to create web applications using PHP and MySQL.  Specifically, you will learn PHP and then create you own content management system (CMS) from scratch.",
 		"obtains": [
@@ -205,6 +216,7 @@
 	{
 		"id": 12,
 		"name": "The Complete PHP MYSQL Professional Course with 5 Projects",
+		"price": 3000,
 		"description": "Have you ever wonder why their are so many PHP Mysql Courses but they offer very little practical skills. Even though if you search on learn web the longest course will only offer 1 big projects. Sometimes its difficult for beginners to understand the long project right after learning basics due to lack of practice.Furthermore, big courses just give presentation to projects they never ever let students see their actual content. For example the basic videos, Free starter content etc. However this course is Scam-Free course. Students can watch more than 2 hour of initial content free of cost to decide weather to buy this course or not.",
 		"obtains": [
 			"All PHP Fundamentals and Building Blocks with practical implementation in Projects",

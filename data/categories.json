@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"name": "html&css"
+	},
+	{
+		"id": 2,
+		"name": "javascript"
+	},
+	{
+		"id": 3,
+		"name": "nodejs"
+	},
+	{
+		"id": 4,
+		"name": "mern"
+	},
+	{
+		"id": 5,
+		"name": "php"
+	},
+	{
+		"id": 6,
+		"name": "react"
+	}
+]

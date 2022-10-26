@@ -1,0 +1,231 @@
+[
+	{
+		"id": 1,
+		"name": "Build Responsive Real-World Websites with HTML and CSS",
+		"category": "html&css",
+		"description": "Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid Amazing, right? What if you knew exactly how to design and build a website like that, completely from scratch? How amazing would that be?Well, I'm here to teach you HTML, CSS, and web design, all by building the stunning website that you just saw, step-by-step.So, after finishing this course, you will know exactly how to build a beautiful, professional, and ready-to-launch website just like Omnifood, by following a 7-step process. And it will even look great on any computer, tablet, and smartphone.But what if you want to build a completely different website? Well, no problem! I designed the course curriculum with exactly this goal: to enable you to design and build any website that you can think of, not just copy the course project.",
+		"obtains": [
+			"Become a modern and confident HTML and CSS developer, no prior knowledge needed!",
+			"Modern, semantic and accessible HTML5",
+			"Important CSS concepts such as the box model, positioning schemes, inheritance, solving selector conflicts, etc.",
+			"How to plan, sketch, design, build, test, and optimize a professional website",
+			"How to find and use free design assets such as images, fonts, and icons",
+			"Design and build a stunning real-world project for your portfolio from scratch",
+			"Modern CSS (previous CSS3), including flexbox and CSS Grid for layout",
+			"Developer skills such as reading documentation, debugging, and using professional tools",
+			"How to make websites work on every possible mobile device (responsive design)",
+			"Practice your skills with 10+ challenges (solutions included)",
+			"A web design framework with easy-to-use rules and guidelines to design eye-catching websites"
+		],
+		"duration": "37h 30m",
+		"image": "https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"rating": 5
+	},
+	{
+		"id": 2,
+		"category": "html&css",
+		"description": "This course is for both beginners and seasoned developers that want to learn how to build responsive websites and user interfaces with modern HTML5 and CSS3+ technologies like Flexbox and CSS Grid as well as the Sass pre-compiler. This course includes hours of both learning & studying sections along with real life projects. Stop having to rely on frameworks like Bootstrap for your user interface and learn how to create your own layouts and utility classes to build custom responsive websites and app UIs.The first few sections are tailored for beginners so even if you have never built anything before, you will learn all of the basics. If you already have experience with basic HTML & CSS, just move to section 3 or 4 and get started.",
+		"obtains": [
+			"Build Multiple High Quality Website & UI Projects",
+			"Flexbox & CSS Grid Projects",
+			"Website Hosting & Deployment With FTP & Git",
+			"HTML5 Semantic Layout & CSS Fundamentals",
+			"CSS Variables, Transitions, Dropdowns, Overlays & More",
+			"All Skill Levels"
+		],
+		"name": "Modern HTML & CSS From The Beginning (Including Sass)",
+		"rating": 4,
+		"image": "https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+	},
+	{
+		"id": 3,
+		"name": "The Complete JavaScript Course 2022: From Zero to Expert!",
+		"description": "This is the most complete JavaScript course on learn web. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications.You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects.You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job.And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up!But... You don't have to go into all these topics. This is a huge course, because, after all, it's 'The Complete JavaScript Course'. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster.By the end of the course, you will have the knowledge and confidence that you need in order to ace your job interviews and become a professional developer.",
+		"duration": "50h",
+		"rating": 5,
+		"obtains": [
+			"Become an advanced, confident, and modern JavaScript developer from scratch",
+			"Become job-ready by understanding how JavaScript really works behind the scenes",
+			"JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.",
+			"Modern OOP: Classes, constructors, prototypal inheritance, encapsulation, etc.",
+			"Asynchronous JavaScript: Event loop, promises, async/await, AJAX calls and APIs",
+			"Modern tools for 2022 and beyond: NPM, Parcel, Babel and ES6 modules",
+			"Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
+			"How to think and work like a developer: problem-solving, researching, workflows",
+			"Modern ES6+ from the beginning: arrow functions, destructuring, spread operator, optional chaining (ES2020), etc.",
+			"Complex concepts like the 'this' keyword, higher-order functions, closures, etc",
+			"Practice your skills with 50+ challenges and assignments (solutions included)",
+			"Complex concepts like the 'this' keyword, higher-order functions, closures, etc."
+		],
+		"image": "https://images.pexels.com/photos/2004161/pexels-photo-2004161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+		"category": "javascript"
+	},
+	{
+		"id": 4,
+		"name": "JavaScript - The Complete Guide 2022 (Beginner + Advanced)",
+		"description": "Join the most comprehensive and in-depth JavaScript course on learn webandlearn JavaScript from the ground up, in great detail with this bestselling course!JavaScript is THE most important programming language you need to learn as a web developer - and with this course, you make sure that you will not miss a single thing you have to know as a JavaScript developer!This is the most comprehensive and modern course you can find on JavaScript - it's based on all my JavaScript knowledge AND teaching experience. It's both a complete guide, starting with the core basics of the language, as well as an extensive reference of the JavaScript language and environment, ensuring that both newcomers as well as experienced JavaScript developers get a lot out of this course!It's a huge course because it's packed with important knowledge and helpful content. From the core basics, over advanced concepts and JavaScript specialties, all the way up to expert topics like performance optimization and testing - this course has it all. My goal was to create your go-to resource for the JavaScript language, which you can not just use for learning it but also as a resource you can come back to and look up important topics.",
+		"obtains": [
+			"Learn JavaScript from scratch and in great detail - from beginner to advanced",
+			"Everything you need to become a JavaScript expert and apply for JavaScript jobs",
+			"All about variables, functions, objects and arrays",
+			"Deep dives into prototypes, JavaScript engines & how it works behind the scenes",
+			"Event handling, asynchronous coding and Http requests",
+			"All core features and concepts you need to know in modern JavaScript development",
+			"Meta-programming, performance optimization, memory leak busting",
+			"Object-oriented programming",
+			"Manipulating web pages (= the DOM) with JavaScript"
+		],
+		"category": "javascript",
+		"duration": "20h",
+		"rating": 4.5,
+		"image": "https://images.pexels.com/photos/1089440/pexels-photo-1089440.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+	},
+	{
+		"id": 5,
+		"name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+		"description": "React.js is THE most popular JavaScript library you can use and learn these days to build modern, reactive user interfaces for the web.This course teaches you React in-depth, from the ground up, step by step by diving into all the core basics, exploring tons of examples and also introducing you to advanced concepts as well.You'll get all the theory, tons of examples and demos, assignments and exercises and tons of important knowledge that is skipped by most other resources - after all, there is a reason why this course is that huge! :)And in case you don't even know why you would want to learn React and you're just here because of some ad or 'the algorithm' - no worries: ReactJS is a key technology as a web developer and in this course I will also explain WHY it's that important!",
+		"obtains": [
+			"Build powerful, fast, user-friendly and reactive web apps",
+			"Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right now",
+			"Provide amazing user experiences by leveraging the power of JavaScript with ease",
+			"Learn all about React Hooks and React Components"
+		],
+		"category": "react",
+		"duration": "30h",
+		"rating": 5,
+		"image": "https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+	},
+	{
+		"id": 6,
+		"name": "React Tutorial and Projects Course (2022)",
+		"description": "React was released by Facebook's web development team in 2013 as a view library. React is one of the best choices for building modern web applications. React has a slim API, a robust and evolving ecosystem and a great community. In this course we will be learning React by creating various projects.If you want to learn more than just same old tutorial and instead create interesting projects using React.js this course is for you. During the course we will also cover redux-toolkit, which is the latest flavor of good old redux and build an interesting project with it. After each tutorial section we will build few projects to put see theory in action. You are not expected to build all projects, but the more course projects, you will complete the easier it's going to be to build your own applications, since you will know how to implement certain features in react.",
+		"obtains": ["Make Great Projects Using React"],
+		"category": "react",
+		"duration": "50h",
+		"rating": 4.5,
+		"image": "https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=600"
+	},
+	{
+		"id": 7,
+		"name": "Node.js, Express, MongoDB & More: The Complete Bootcamp 2022",
+		"description": "Do you want to build fast and powerful back-end applications withJavaScript? Would you like to become a more complete and in-demand developer?Then Node.js is the hot technology for you to learn right now, and you came to the right place to do it!Welcome to the Complete Node.js, Express, and MongoDB Bootcamp, your fast track to modern back-end development.This course is the perfect all-in-one package that will take you from a complete beginner to an advanced, highly-skilled Node.js developer.Like all my other courses, this one is completely project-based! And not just any project: it's a complete, beautiful, and feature-rich application, containing both a RESTful API and a server-side rendered website. It's the most fantastic and complete project that you will find in any Node.js course on the internet!By building this huge project, you will learn all the skills that you need in order to plan, build, and deploy your own modern back-end applications with Node.js and related technologies.",
+		"obtains": [
+			"Master the entire modern back-end stack: Node, Express, MongoDB and Mongoose (MongoDB JS driver)",
+			"Build a fast, scalable, feature-rich RESTful API (includes filters, sorts, pagination, and much more)",
+			"CRUD operations with MongoDB and Mongoose",
+			"How to work with data in NoSQL databases (including geospatial data)",
+			"Security: encryption, sanitization, rate limiting, etc.",
+			"Credit card payments with Stripe",
+			"Deploy the final application to production (including a Git crash-course)",
+			"Build a complete, beautiful & real-world application from start to finish (API and server-side rendered website)",
+			"Learn how Node really works behind the scenes: event loop, blocking vs non-blocking code, streams, modules, etc.",
+			"Deep dive into mongoose (including all advanced features)",
+			"Advanced authentication and authorization (including password reset)",
+			"Server-side website rendering with Pug templates",
+			"Sending emails & uploading files"
+		],
+		"category": "nodejs",
+		"duration": "40h",
+		"rating": 5,
+		"image": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+	},
+	{
+		"id": 8,
+		"name": "The Complete Node.js Developer Course (3rd Edition)",
+		"description": "Have you tried to learn Node before? You start a new course, and the instructor has you installing a bunch of libraries before you even know what Node is or how it works. You eventually get stuck and reach out to the instructor, but you get no reply. You then close the course and never open it again.The Complete Node.js Developer Course covers the fundamentals of Node before diving deep into great tools like Express, Mongoose, and MongoDB.The entire course is based around a single goal: Turning you into a professional Node developer capable of developing, testing, and deploying real-world production applications.",
+		"obtains": [
+			"Completely refilmed for 3rd edition",
+			"Create Express web servers and APIs",
+			"Use cutting-edge ES6/ES7 JavaScript",
+			"Create real-time web apps with SocketIO",
+			"Build, test, and launch Node apps",
+			"Store data with Mongoose and MongoDB",
+			"Deploy your Node apps to production"
+		],
+		"category": "nodejs",
+		"duration": "12h",
+		"rating": "4",
+		"image": "https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=600"
+	},
+	{
+		"id": 9,
+		"name": "React, NodeJS, Express & MongoDB - The MERN Fullstack Guide",
+		"category": "mern",
+		"description": "We built the bestselling React course on Udemy - this course now allows you to take your React knowledge to the next level and build fullstack web apps based on React, NodeJS, MongoDB and Express!Building fullstack applications (i.e. frontend + backend) with the MERN stack is very popular - in this course, you will learn it from scratch at the example of a complete project!MERN stands for MongoDB, Express.js, React.js and Node.js - and combined, these four technologies allow you to build amazing web applications.In this course, we'll build an entire project and you will learn how these different technologies work together step by step. We'll first have a look at all the individual building blocks, so that we then can also combine them all into one amazing application by the end of the course.This course also doesn't stop after the basics - instead, you'll also learn how to add file upload, authentication, authorization and how to deploy your application in different ways to different hosting services.This course is taught by two instructors - Max (React.js, Node/ Express) and Manuel (MongoDB) who have years of experience of working with these technologies and teaching them to other people. We took and combined our experiences to deliver you the best possible MERN stack course you can find out there.",
+		"obtains": [
+			"Learn how to connect ReactJS with NodeJS, Express & MongoDB",
+			"Refresh the basics about ReactJS, NodeJS, Express and MongoDB",
+			"Add File Upload to ReactJS + Node/ Express Applications",
+			"Build an entire project from scratch!",
+			"Learn how to implement Authentication & Authorization"
+		],
+		"duration": "20h",
+		"rating": 4.8,
+		"image": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVhY3R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+	},
+	{
+		"id": 10,
+		"name": "MERN Stack Course 2022 - MongoDB, Express, React and NodeJS",
+		"description": "What's up everybody, this is John from Coding Addict and welcome to my MERN Stack course . During the course we will build full stack application (Jobify) from scratch, using MongoDB, Express, React and Node.js",
+		"obtains": [
+			"Learn how to build big full stack app from scratch",
+			"Learn how to implement JWT for authentication and authorization",
+			"Learn how to implement ES6 in Node",
+			"Learn best practices of Front-End and Server applications",
+			"Learn how to connect Front-End application (React) with Backend application (Express, MongoDB, NodeJS)",
+			"Learn how to implement React Hooks, Async/Await, React Router 6, Axios",
+			"Learn how to deploy MERN app on Heroku"
+		],
+		"rating": 4.9,
+		"category": "mern",
+		"duration": "40h",
+		"image": "https://images.unsplash.com/photo-1581276879432-15e50529f34b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmVhY3R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+	},
+	{
+		"id": 11,
+		"name": "PHP for Beginners",
+		"description": "Are you wanting to get into Web development, but are not sure where start? So maybe you tried out some PHP and MySQL tutorials on Youtube, but found them too hard or outdated, and feel that you need a more comprehensive introduction.Maybe you want to learn how to write PHP the right way.  Secure code, OOP ready, and maximising re-usability as well as finding out about PHP programming standards to adopt and adhere too?Perhaps your boss or client threw you in the deep end with a PHP and MySQL project, and you need to get up to speed with PHP, fast.Whatever the reason, this course is for you.This course is going to teach you how to create web applications using PHP and MySQL.  Specifically, you will learn PHP and then create you own content management system (CMS) from scratch.",
+		"obtains": [
+			"Learn how to create a dynamic website using the most popular website programminglanguage",
+			"Learn how to secure your code",
+			"Learn how to structure your code using object-oriented programming techniques",
+			"Style your site using Bootstrap",
+			"How to store data in a relational database and use this from PHP code",
+			"Build a working CMS in PHP and MySQL from scratch",
+			"Learn how to write reusable, more maintainable code using programming standards",
+			"Learn the theory but then put it into practice in a CMS project",
+			"How to integrate third-party code into your site",
+			"Learn all aspects of a basic web application in PHP: login, CRUD operations, sending emails, uploading files, Ajax"
+		],
+		"category": "php",
+		"duration": "37h 30m",
+		"image": "https://media.istockphoto.com/photos/inscription-against-laptop-and-code-background-learn-php-programming-picture-id1297752994?b=1&k=20&m=1297752994&s=612x612&w=0&h=AT2OKVE7Tz7SX-AobWZURdH6v_Si4qg3ahDYwHy7DxA=",
+		"rating": 5
+	},
+	{
+		"id": 12,
+		"name": "The Complete PHP MYSQL Professional Course with 5 Projects",
+		"description": "Have you ever wonder why their are so many PHP Mysql Courses but they offer very little practical skills. Even though if you search on learn web the longest course will only offer 1 big projects. Sometimes its difficult for beginners to understand the long project right after learning basics due to lack of practice.Furthermore, big courses just give presentation to projects they never ever let students see their actual content. For example the basic videos, Free starter content etc. However this course is Scam-Free course. Students can watch more than 2 hour of initial content free of cost to decide weather to buy this course or not.",
+		"obtains": [
+			"All PHP Fundamentals and Building Blocks with practical implementation in Projects",
+			"Making web pages dynamic with the variety of PHP Techniques",
+			"Complete CMS ( Content Management System) with Admin-Panel",
+			"Using PHP Sessions in a more sophisticated way and pass information easily on different modules of Project",
+			"Powerful Web Forms which will be Free of Hack",
+			"CMS Based Projects",
+			"Sending Email using PHP",
+			"Login Logout Admin System",
+			"PDO",
+			"Security Techniques on Public pages",
+			"Form Validation with most Secure way using Regular Expressions",
+			"Employee Management System CRUD Application in PHP From Scartch",
+			"Getting Started with Bootstrap 4 FrameWork from scratch without using any Bootstrap Template",
+			"Stunning Blog with Commenting functionality",
+			"Build Professional CRUD"
+		],
+		"category": "php",
+		"duration": "30h 20m",
+		"rating": 4.6,
+		"image": "https://media.istockphoto.com/photos/programming-language-picture-id1205766528?b=1&k=20&m=1205766528&s=612x612&w=0&h=gRu_XTlcpNUJiTfy8y2up2_i0dS1aTXmTKqBbDdx72c="
+	}
+]
